@@ -9,7 +9,7 @@
 :sparkles: GIFs [[link]](./evaluation/gifs/)  
 :loudspeaker: Presentation [[link]](./output/presentation.pdf)  
 :page_with_curl: Report [[link]](./output/report.pdf)  
-:mag_right: Different graphics and tables [there](./evaluation/analytics.ipynb)  
+:mag_right: Different graphics and table [[link]](./evaluation/analytics.ipynb)  
 :floppy_disk: Latex sourse [[link]](./output/latex.zip)  
 :gift: All experiments metrics and configs [[link]](./output/run_summary.csv)  
 
