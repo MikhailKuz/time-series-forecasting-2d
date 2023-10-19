@@ -1,0 +1,17 @@
+boto3
+h5py>=2.10.0
+scipy
+tqdm
+regex
+requests
+transformers>=4.3.0
+pandas
+einops>=0.3.0
+tensorboard
+omegaconf
+matplotlib
+boto3
+botocore
+earthnet
+leafmap
+python-box[all]~=7.0

@@ -1,0 +1,1 @@
+from src.cuboid_transformer.cuboid_transformer import CuboidTransformerModel as EarthFormer
